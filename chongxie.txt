@@ -72,7 +72,7 @@ hostname = preprod.cdzghome.com, api.xbxxhz.com, api.petkit.cn, sfo.mddcloud.com
 ^https?:\/\/api\.u51\.com\/generic-config-gateway\/api\/v\d\/guanjia\/me-tab2\/config url script-response-body https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/51card.js
 
 # > 58
-^https?:\/\/app\.58\.com\/api\/home\/(advertisappadv)\asd/ url reject
+^https?:\/\/app\.58\.com\/api\/home\/(adpadv)\asd/esr url reject
 ^https?:\/\/.+?\.58cdn\.com\.cn\/brandads\/ url reject-200
 ^https?:\/\/app\.58\.com\/api\/home\/invite\/popupAdv url reject-200
 ^https?:\/\/app\.58\.com\/api\/log\/ url reject
