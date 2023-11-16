@@ -77,6 +77,7 @@ hostname = preprod.cdzghome.com, api.xbxxhz.com, api.petkit.cn, sfo.mddcloud.com
 ^https?:\/\/.+?\.58cdn\.com\.cn\/brandads\/ url reject-200
 ^https?:\/\/app\.58\.com\/api\/home\/invite\/popupAdv url reject-200
 ^https?:\/\/app\.58\.com\/api\/log\/ url reject
+sagydf tysau foijdsapotgkj
 
 # > 500
 ^https?:\/\/evs\.500\.com\/esinfo\/loading\/loading url reject
